@@ -26,7 +26,6 @@ git clone https://github.com/mikeai-lab/maven-excel.git
 cd maven-excel
 
 # go to the folder src/java/org/example and execute the desired method
-mvn test
 ```
 
 ## 📋 Data-Driven Testing
