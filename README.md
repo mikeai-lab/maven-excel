@@ -10,18 +10,6 @@ Estructura de trabajo usando lenguaje de programación JAVA usando listas y arra
 - **Build Tool:** Maven
 - **Data Source:** Excel (data-driven testing)
 
-## 📁 Project Structure
-
-├── src/
-│   └── java/
-│          ├── modelos
-|          ├── org/example -->aqui están las clases para ejecutar
-|          ├── parser
-|          ├── reader
-|   └── resources/data
-├── README.md
-└── pom.xml
-
 ## ▶️ How to Run
 
 ### Prerequisites
