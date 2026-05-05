@@ -4,6 +4,7 @@ Estructura de trabajo usando lenguaje de programación JAVA usando listas y arra
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-Data--Driven-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 - **Language:** Java 17.0.17 2025-10-21 LTS
 - **IDE** Intellij IDEA
