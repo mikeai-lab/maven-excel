@@ -1,5 +1,5 @@
 # uso de maven con excel
-Estructura de trabajo usando lenguaje de programación JAVA usando listas y arrays, usando MAVEN y EXCEL como fuente de datos, generando algunos casos prácticos.
+Estructura de trabajo usando lenguaje de programación JAVA usando listas y arrays usando MAVEN, EXCEL como fuente de datos, generando algunos casos prácticos.
 
 ## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
